@@ -3,4 +3,5 @@ package com.example.servicetest;
 
 public final class BuildConfig {
     public final static boolean DEBUG = true;
+    Log.d("hello");
 }
